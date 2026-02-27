@@ -1,4 +1,4 @@
 Hello, welcome to the digital residence of
 ### Guillermo Velasquez
 #### Engineering Manager
-Currently working at Klarna 📱💳
+Currently working at PandaDoc 🐼 
